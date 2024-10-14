@@ -1,7 +1,6 @@
 Uber Pickups Data Analysis
 
-Overview
-This project analyzes Uber pickup data in NYC from April to September 2014. We cleaned, visualized, and applied machine learning to predict ride demand based on location and time.
+Overview: This project analyzes Uber pickup data in NYC from April to September 2014. We cleaned, visualized, and applied machine learning to predict ride demand based on location and time.
 
 Dataset
 The dataset includes monthly Uber pickup data for 2014 (April-September), which we cleaned by:
